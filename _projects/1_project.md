@@ -2,7 +2,7 @@
 layout: page
 title: Class Based Project Week 1
 description: Surau's store clean-up
-img: assets/img/class_based_project_sem_1/week1_6.jpg
+img: assets/img/class_based_project_sem_1/week1_5.jpg
 importance: 1
 category: class based project
 related_publications: 
@@ -52,7 +52,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    S23H class picture after the clean-up activity.
+    S23H class picture before, during and after the clean-up activity.
 </div>
 
 
