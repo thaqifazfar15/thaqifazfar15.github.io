@@ -2,7 +2,7 @@
 layout: page
 title: Class Based Project Week 1
 description: Surau's store clean-up
-img: assets/img/12.jpg
+img: assets/img/class_based_project_sem_1/week1_9.jpg
 importance: 1
 category: class based project
 related_publications: 
@@ -12,13 +12,13 @@ During Sem 1, my class got assigned Surau An-Nur (Surau Kolej MARA Banting) to d
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/class_based_projects_sem_1/week1_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/class_based_project_sem_1/week1_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/class_based_projects_sem_1/week1_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/class_based_project_sem_1/week1_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/class_based_projects_sem_1/week1_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/class_based_project_sem_1/week1_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ During Sem 1, my class got assigned Surau An-Nur (Surau Kolej MARA Banting) to d
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/class_based_projects_sem_1/week1_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/class_based_project_sem_1/week1_6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
