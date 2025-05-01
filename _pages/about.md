@@ -2,18 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.mara.gov.my/en/young-talent-development-programme-2/'>YTP MARA Scholar</a>. Penn State Harrisburg.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mypfp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kolej Mara Banting</p>
+    <p>Jalan Labuhan Dagang,</p> 
+    <p>Bukit Changgang,</p>
+    <p>42700 Banting, Selangor</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m an undergraduate student in Computational Data Sciences at Penn State Harrisburg, with a strong interest in the intersection of mathematics, machine learning and physics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm interested in algebraic geometry and numerical analysis. I enjoy exploring how abstract mathematical ideas can be used to solve real-world problems, especially through computation. I'm still learning, but I’m excited by the way pure and applied math connect in areas like data science and scientific computing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently looking for research opportunities to learn more and gain hands-on experience. Feel free to reach out!
