@@ -3,7 +3,7 @@ layout: post
 title: Way Before The Beginning
 date: 2025-04-30 23:13:36
 description: documenting my journey from Malaysia to America
-tags: formatting
+tags: study
 categories: life
 ---
 

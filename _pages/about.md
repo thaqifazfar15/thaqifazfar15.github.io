@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mara.gov.my/en/young-talent-development-programme-2/'>YTP MARA Scholar</a>. Penn State Harrisburg.
+subtitle: <a href='https://www.mara.gov.my/en/young-talent-development-programme-2/'>YTP MARA Scholar</a>. Pennsylvania State University.
 
 profile:
   align: right
